@@ -1,16 +1,9 @@
-<h1 align="center"> I am Dio Brando!</h1>
-<h3 align="center">I'll give you a chance. Go down two steps and I'll let you join my side. But if you'd rather die, then climb those stairs</h3>
+# <h1 align="center"> I am Dio Brando!</h1>
+
+<h3 align="center">You have one more chance. Descend two steps, and may join me as an ally. But if you prefer death, ascend the remaining steps.</h3>
 
 <p align="center">
-<img src="./assets/Animated GIF.gif">
-</p>
-
----
-
-> <h3 align="center"> "Everything you do is MUDA. Your bugs, your merge conflicts, your legacy code — it's all meaningless before the power of The World." - Dio Brando</h3>
-
-<p align="center">
-<img src="./assets/jojo GIF.gif">
+<img src="./assets/1.gif">
 </p>
 
 ---
@@ -19,21 +12,16 @@
   <a href="https://git.io/streak-stats" style="display: inline-block; vertical-align: middle;">
     <img src="https://streak-stats.demolab.com?user=L0rdDioBrando&theme=catppuccin-macchiato&card_width=450&type=png" alt="GitHub Streak" />
   </a>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Incomparable+Tech+Stack&lineCount=1&theme=catppuccin_macchiato&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&line1=go%2Cgo%2C8aadf4%3Bnixos%2CNixOS%2C8aadf4%3Bneovim%2Cneovim%2Ca6da95%3Bdocker%2Cdocker%2C7dc4e4%3B" alt="My Incomparable Tech Stack" style="vertical-align: middle;" />
+  
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Incomparable+Tech+Stack&lineCount=1&theme=catppuccin_macchiato&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&line1=go%2Cgo%2C8aadf4%3Bnixos%2CNixOS%2C8aadf4%3Bneovim%2Cneovim%2Ca6da95%3B" alt="My Incomparable Tech Stack" style="vertical-align: middle;" />
 </p>
 
 ---
 
-<p align="center">
-<img src="./assets/toki GIF.gif">
-</p>
+<h3 align="center">You fool! You shall soon know... ...that The World's true power is, indeed, the power to reign over this world!</h3>
 
-<!--|  MUDA MUDA MUDA!  |
-|  :---             |
-|  C++              |
-|  Web technologies |
-|  Documentation    |
-|  Python           |-->
+<p align="center">
+<img src="./assets/2.gif">
+</p>
 
 
