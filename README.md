@@ -12,8 +12,7 @@
   <a href="https://git.io/streak-stats" style="display: inline-block; vertical-align: middle;">
     <img src="https://streak-stats.demolab.com?user=L0rdDioBrando&theme=catppuccin-macchiato&card_width=450&type=png" alt="GitHub Streak" />
   </a>
-  
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Incomparable+Tech+Stack&lineCount=1&theme=catppuccin_macchiato&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&line1=go%2Cgo%2C8aadf4%3Bnixos%2CNixOS%2C8aadf4%3Bneovim%2Cneovim%2Ca6da95%3B" alt="My Incomparable Tech Stack" style="vertical-align: middle;" />
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Incomparable+Tech+Stack&fontFamily=FiraCode&fontWeight=normal&lineCount=2&theme=catppuccin_macchiato&width=350&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&line1=Go%2CGo%2C8aadf4%3BNixOS%2CNixOS%2C8aadf4%3BNeovim%2CNeovim%2Ca6da95%3B&line2=Lua%2Clua%2C8aadf4%3BDocker%2CDocker%2C8aadf4%3B" alt="My Incomparable Tech Stack" /> 
 </p>
 
 ---
